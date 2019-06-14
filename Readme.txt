@@ -20,7 +20,7 @@ Cualquier ayuda, mejora o comentario... todo será siempre bienvenido.
 - Archivo level.js   : Clase Nivel.
 - Archivo levels.js  : Array de mapas de niveles del juego.
 - Archivo player.js  : Clase Jugador.
-- Archivo vector.js : Clase Vector.
+- Archivo vector.js  : Clase Vector.
 - Archivo index.html : Página de la que se cuelga el juego.
 - Archivo style.css  : Hoja de estilos.
 - Archivo readme.txt : Este mismo índice.
